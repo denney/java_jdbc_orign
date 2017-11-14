@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="java_jdbc_orign:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_jdbc_orign_jar</output-path>
+    <root id="root">
+      <element id="archive" name="java_jdbc_orign.jar">
+        <element id="module-output" name="java_jdbc_orign" />
+      </element>
+    </root>
+  </artifact>
+</component>
